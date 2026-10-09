@@ -1,0 +1,25 @@
+Aarav Sharma (sample resume for testing only)
+Email: aarav.sample@example.com | Patna, India
+
+Summary
+Final-year B.Tech student in Computer Science interested in machine learning and natural language processing. Comfortable building small Python projects.
+
+Education
+B.Tech in Computer Science, Sample Institute of Technology, expected 2027
+CGPA: 8.1
+
+Technical Skills
+Python, Java, SQL, NumPy, Pandas, Scikit-learn, Machine Learning, Git, Linux, Excel
+
+Experience
+Data Analysis Intern, Sample Analytics Pvt. Ltd. (June 2026 - August 2026)
+- Cleaned and analysed customer survey data of about 12,000 records using Pandas.
+- Prepared weekly reports in Excel for the operations team.
+
+Projects
+Spam Email Classifier
+- Built a text classifier in Python using TF-IDF and Logistic Regression, tested on a public SMS spam dataset.
+- Used Git to track changes and documented the training steps in a README.
+
+Certifications
+Machine Learning Specialization (online course)

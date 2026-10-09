@@ -1,0 +1,25 @@
+Junior Machine Learning Engineer
+
+We are looking for a Junior Machine Learning Engineer to build NLP and predictive models.
+
+Required skills:
+- Python
+- SQL
+- Machine Learning
+- Scikit-learn
+- NLP
+- Docker
+- AWS
+- REST API
+- Git
+
+Preferred skills:
+- TensorFlow
+- Pandas
+- Communication and teamwork
+
+Responsibilities:
+- Develop, train and evaluate machine learning models.
+- Deploy models with Docker on AWS.
+- Expose model predictions through REST APIs.
+- Collaborate with analysts and product teams.
